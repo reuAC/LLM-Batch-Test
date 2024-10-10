@@ -1,5 +1,5 @@
 # LLM-Batch-Test
-[ 中文 | [English](https://github.com/reuAC/LLM-Batch-Test/blob/re_uAC/README_EN.md) | [日本語](https://github.com/reuAC/LLM-Batch-Test/blob/re_uAC/README_JP.md) ]
+[ 中文 | [English](https://github.com/reuAC/LLM-Batch-Test/blob/reuAC/README_EN.md) | [日本語](https://github.com/reuAC/LLM-Batch-Test/blob/reuAC/README_JP.md) ]
 
 * runer.py  : 运行一次大模型。
 * runer2.py : 运行一次大模型，并获取大模型的反馈。
